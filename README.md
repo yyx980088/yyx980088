@@ -1,5 +1,5 @@
-- 👋 Hi, I’m yanxin, a 98 line business anaylst in tech industry in Malaysia !
-- 👀 I’m interested in cool stuffs like data analytics and dashboard buidling. 
+- 👋 Hi, I’m a 98 line business analyst in tech industry
+- 👀 I’m interested in cool stuffs like data analytics, dashboard buidling and skiing.
 - 🌱 I’m currently learning and mastering my programming skill. 
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/tanyanxin98/ or email: yyx980088@gmail.com or ig:tantanxin_
 - ⚡ Fun fact: i love analytics stuffs but i hate math. i love latte/smoothie but i have lactose intolerance. 
